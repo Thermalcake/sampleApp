@@ -1,0 +1,1 @@
+This is an evolving sample of Ruby on Rails Web development for my own learning purpose. Thanks to [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com).
